@@ -1,0 +1,12 @@
+bike_gta/neg/1.png
+bike_gta/neg/10.png
+bike_gta/neg/11.png
+bike_gta/neg/12.png
+bike_gta/neg/2.png
+bike_gta/neg/3.png
+bike_gta/neg/4.png
+bike_gta/neg/5.png
+bike_gta/neg/6.png
+bike_gta/neg/7.png
+bike_gta/neg/8.png
+bike_gta/neg/9.png
